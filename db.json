@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "nokia837",
+      "brand": "nokia",
+      "category": "Phones",
+      "price": 500,
+      "description": "jso"
+    },
+    {
+      "name": "iphone 12pro",
+      "brand": "iphone",
+      "category": "accessories",
+      "price": 150,
+      "description": "premium phone",
+      "id": 2
+    }
+  ]
+}
